@@ -1,0 +1,14 @@
+body{
+  height: 3000px;
+}
+
+.right-sidebar{
+  position: fixed;
+  background-color: green;
+  color: white;
+  width: 100px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  
+}

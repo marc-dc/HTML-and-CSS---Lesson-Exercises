@@ -1,0 +1,9 @@
+.input-name,
+.input-email{
+  display: block;
+  margin-bottom: 5px;
+  color: gray;
+  padding: 3px;
+  padding-right: 10px;
+  border-radius: 2px;
+}

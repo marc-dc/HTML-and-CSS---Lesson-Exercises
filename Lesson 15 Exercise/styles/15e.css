@@ -1,0 +1,25 @@
+body{
+  height: 3000px;
+}
+
+.item-container{
+  display: inline-block;
+  position: relative;
+}
+
+.item-photo{
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.discount-percent{
+  position: absolute;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px 10px ;
+  top: 10px;
+  right: 0px;
+}

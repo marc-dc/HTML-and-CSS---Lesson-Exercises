@@ -1,0 +1,31 @@
+p, button{
+  font-family: Verdana;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.title{
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.sub-title{
+  color: rgb(119, 117, 117);
+  margin-top: 3px;
+  margin-bottom: 20px;
+}
+
+.description{
+  width: 300px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.get-started-button{
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}

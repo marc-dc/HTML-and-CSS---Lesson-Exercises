@@ -1,0 +1,19 @@
+.flex-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.item-1{
+  background-color: lightblue;
+  width: 50px;
+}
+
+.item-2{
+  background-color: lightpink;
+  flex: 1;
+}
+
+.item-3{
+  background-color: lightblue;
+  width: 75px;
+}

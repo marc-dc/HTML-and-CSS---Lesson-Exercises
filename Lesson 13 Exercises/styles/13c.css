@@ -1,0 +1,75 @@
+
+div{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.email-list{
+  display: flex;
+  flex-direction: column;  width: 400px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+  margin: 20px;
+  row-gap: 15px;
+  padding-bottom: 16px;
+}
+
+.inbox{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(141, 137, 137);
+  font-size: 12px;
+  padding: 10px 10px 0px 10px;  
+  margin: 0px;
+}
+
+.profile-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.profile-picture-container{
+  width: 70px;
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+}
+
+.profile-picture{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-left: 15px;
+}
+
+.profile-info-container{
+  flex: 1;
+}
+
+.profile-info-title{
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
+.profile-time{
+  color: rgb(95, 95, 95);
+  font-size: 12px;
+  font-weight: normal;
+  margin-right: 15px;
+}
+
+.profile-info-subtitle{
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+
+.profile-text{
+  font-size: 14px;
+  color: rgb(95, 95, 95);
+}
+

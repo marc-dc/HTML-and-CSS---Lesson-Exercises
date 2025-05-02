@@ -1,0 +1,14 @@
+.script{
+  width: 200px;
+  font-family: Arial;
+  margin-top: 25px;
+  margin-left: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+}
+
+.yes-button,
+.no-button{
+  vertical-align: middle;
+}

@@ -1,0 +1,57 @@
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.container{
+  padding: 5px 10px 5px 10px;
+  width: 350px;
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.3);
+}
+.row{
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.profile-picture{
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 30px;
+  margin-right: 15px;
+}
+
+.info{
+  width: 200px;
+}
+
+.name{
+  font-weight: bold;
+  margin-top: 12px;
+  margin-bottom: 3px;
+}
+
+.handle{
+  color: rgb(150, 150, 150);
+  margin-bottom: 5px;
+}
+
+.category{
+  color: rgb(150, 150, 150);
+  font-size: 14px;
+}
+
+button{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding: 10px 15px 10px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}

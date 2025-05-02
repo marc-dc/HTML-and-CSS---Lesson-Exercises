@@ -1,0 +1,25 @@
+p{
+  font-family: Arial;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.description{
+  margin-bottom: 20px;
+}
+
+.learn-more{
+  color: rgb(86, 111, 163);
+  cursor: pointer;
+}
+
+
+

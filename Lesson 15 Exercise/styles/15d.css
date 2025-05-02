@@ -1,0 +1,39 @@
+body{
+  height: 3000px;
+}
+
+.bottom-container{
+  position: fixed;
+  bottom: 40px;
+  right: 15px;
+  width: 320px;
+  height: 180px;
+  background-color: black;
+  background-color: gray;
+}
+
+.close-button{
+  position: absolute;
+  background: black;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-family: Arial;
+  font-weight: bold;
+  top: -15px;
+  left: -10px;
+  cursor: pointer;
+}
+
+.video-length{
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  font-size: 12px;
+  padding: 4px;
+
+}

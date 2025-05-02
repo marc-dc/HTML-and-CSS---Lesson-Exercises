@@ -1,0 +1,14 @@
+.search-bar{
+  width: 500px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 10x;
+  padding-left: 10px;
+  font-size: 16px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  margin-left: 20px;
+
+}

@@ -1,0 +1,15 @@
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.sales-title{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.sales-end-date{
+  color: red;
+  font-size: 20px;
+}
